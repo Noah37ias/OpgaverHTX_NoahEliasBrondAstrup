@@ -1,0 +1,2 @@
+char test=65;
+print(test);
